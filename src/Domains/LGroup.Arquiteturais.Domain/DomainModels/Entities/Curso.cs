@@ -18,6 +18,8 @@ namespace LGroup.Arquiteturais.Domain.DomainModels.Entities
 
         public int Id { get; set; }
         public string Nome { get; set; }
+
+        //Preço não é uma FK, é um Objeto de Valor
         public Preco Preco { get; private set; }
 
         public void AddPreco(decimal cotacao,Moeda moeda,decimal valor)

@@ -9,7 +9,12 @@ namespace LGroup.Arquiteturais.Domain.DomainModels.Entities
     public class Matricula
     {
         public int Id { get; set; }
-        public Curso Curso { get; set; }
-        public Aluno Aluno { get; set; }
+
+        //Para habilitar o lazyload temos que colocar o virtual na propriedade
+        //Também temos que referencia um identificador para a forigninkey
+        public int IdCurso { get; set; }
+        public virtual Curso Curso { get; set; }
+        public int IdAluno { get; set; }
+        public virtual Aluno Aluno { get; set; }
     }
 }
