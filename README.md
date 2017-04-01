@@ -1,0 +1,1 @@
+# LGroup.DesignPattern.Arquiteturais
