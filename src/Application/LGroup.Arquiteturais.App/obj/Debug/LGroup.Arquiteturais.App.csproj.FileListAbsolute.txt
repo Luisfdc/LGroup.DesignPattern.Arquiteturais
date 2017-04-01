@@ -1,0 +1,14 @@
+C:\Users\unous\Google Drive\Cursos\LGroup.DesignPattern.Arquiteturais\LGroup.DesignPattern.Arquiteturais\src\Application\LGroup.Arquiteturais.App\obj\Debug\LGroup.Arquiteturais.App.csprojResolveAssemblyReference.cache
+C:\Users\unous\Google Drive\Cursos\LGroup.DesignPattern.Arquiteturais\LGroup.DesignPattern.Arquiteturais\src\Application\LGroup.Arquiteturais.App\bin\Debug\LGroup.Arquiteturais.App.dll
+C:\Users\unous\Google Drive\Cursos\LGroup.DesignPattern.Arquiteturais\LGroup.DesignPattern.Arquiteturais\src\Application\LGroup.Arquiteturais.App\bin\Debug\LGroup.Arquiteturais.App.pdb
+C:\Users\unous\Google Drive\Cursos\LGroup.DesignPattern.Arquiteturais\LGroup.DesignPattern.Arquiteturais\src\Application\LGroup.Arquiteturais.App\bin\Debug\LGroup.Arquiteturais.Data.dll
+C:\Users\unous\Google Drive\Cursos\LGroup.DesignPattern.Arquiteturais\LGroup.DesignPattern.Arquiteturais\src\Application\LGroup.Arquiteturais.App\bin\Debug\LGroup.Arquiteturais.Domain.dll
+C:\Users\unous\Google Drive\Cursos\LGroup.DesignPattern.Arquiteturais\LGroup.DesignPattern.Arquiteturais\src\Application\LGroup.Arquiteturais.App\bin\Debug\EntityFramework.dll
+C:\Users\unous\Google Drive\Cursos\LGroup.DesignPattern.Arquiteturais\LGroup.DesignPattern.Arquiteturais\src\Application\LGroup.Arquiteturais.App\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\unous\Google Drive\Cursos\LGroup.DesignPattern.Arquiteturais\LGroup.DesignPattern.Arquiteturais\src\Application\LGroup.Arquiteturais.App\bin\Debug\LGroup.Arquiteturais.Domain.pdb
+C:\Users\unous\Google Drive\Cursos\LGroup.DesignPattern.Arquiteturais\LGroup.DesignPattern.Arquiteturais\src\Application\LGroup.Arquiteturais.App\bin\Debug\LGroup.Arquiteturais.Data.pdb
+C:\Users\unous\Google Drive\Cursos\LGroup.DesignPattern.Arquiteturais\LGroup.DesignPattern.Arquiteturais\src\Application\LGroup.Arquiteturais.App\bin\Debug\EntityFramework.xml
+C:\Users\unous\Google Drive\Cursos\LGroup.DesignPattern.Arquiteturais\LGroup.DesignPattern.Arquiteturais\src\Application\LGroup.Arquiteturais.App\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\unous\Google Drive\Cursos\LGroup.DesignPattern.Arquiteturais\LGroup.DesignPattern.Arquiteturais\src\Application\LGroup.Arquiteturais.App\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\unous\Google Drive\Cursos\LGroup.DesignPattern.Arquiteturais\LGroup.DesignPattern.Arquiteturais\src\Application\LGroup.Arquiteturais.App\obj\Debug\LGroup.Arquiteturais.App.dll
+C:\Users\unous\Google Drive\Cursos\LGroup.DesignPattern.Arquiteturais\LGroup.DesignPattern.Arquiteturais\src\Application\LGroup.Arquiteturais.App\obj\Debug\LGroup.Arquiteturais.App.pdb

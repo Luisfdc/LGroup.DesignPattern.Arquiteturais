@@ -1,4 +1,5 @@
-﻿using System;
+﻿using LGroup.Arquiteturais.Domain.DomainModels.Entities;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,6 +9,6 @@ namespace LGroup.Arquiteturais.App.Contracts
 {
     public interface IMatriculaApplicationService
     {
-        void Add();
+        void Add(Matricula matricula);
     }
 }

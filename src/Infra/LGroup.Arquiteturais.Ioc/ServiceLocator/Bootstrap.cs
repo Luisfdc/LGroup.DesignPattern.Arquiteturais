@@ -9,6 +9,8 @@ using CommonServiceLocator.SimpleInjectorAdapter;
 using serviceLocator = Microsoft.Practices.ServiceLocation;
 using LGroup.Arquiteturais.Domain.Contracts.UnityOfWork;
 using LGroup.Arquiteturais.Data.UnityOfWorlk;
+using LGroup.Arquiteturais.Domain.Contracts.Repositories;
+using LGroup.Arquiteturais.Data.Repositories;
 
 namespace LGroup.Arquiteturais.Ioc.ServiceLocator
 {
@@ -35,6 +37,10 @@ namespace LGroup.Arquiteturais.Ioc.ServiceLocator
             //Nota: não é preciso dar "new"
             container.Register<IMatriculaApplicationService, MatriculaApplicationService > (lifestyle);
             container.Register<IUnityOfWork, UnityOfWrok>(lifestyle);
+            container.Register<IAlunoRepository, AlunoRepository>(lifestyle);
+            container.Register<ICursoRepository, CursoRepository>(lifestyle);
+            container.Register<IProfessorRepository, ProfessorRepository>(lifestyle);
+            container.Register<IMatriculaRepository, MatriculaRepository>(lifestyle);
 
 
             //Estamos pegando o cantainer do service locator e estamos adicionando o container do simpleInjector

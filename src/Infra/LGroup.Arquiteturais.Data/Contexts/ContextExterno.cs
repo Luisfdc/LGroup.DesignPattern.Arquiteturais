@@ -17,7 +17,7 @@ namespace LGroup.Arquiteturais.Data.Contexts
         public DbSet<Curso> Curso { get; set; }
         public DbSet<Professor> Professor { get; set; }
         public DbSet<Matricula> Matricula { get; set; }
-       }
     }
 }
+
 

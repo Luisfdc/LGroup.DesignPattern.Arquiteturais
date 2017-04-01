@@ -1,0 +1,4 @@
+C:\Users\unous\Google Drive\Cursos\LGroup.DesignPattern.Arquiteturais\LGroup.DesignPattern.Arquiteturais\src\Domains\LGroup.Arquiteturais.Domain\bin\Debug\LGroup.Arquiteturais.Domain.dll
+C:\Users\unous\Google Drive\Cursos\LGroup.DesignPattern.Arquiteturais\LGroup.DesignPattern.Arquiteturais\src\Domains\LGroup.Arquiteturais.Domain\bin\Debug\LGroup.Arquiteturais.Domain.pdb
+C:\Users\unous\Google Drive\Cursos\LGroup.DesignPattern.Arquiteturais\LGroup.DesignPattern.Arquiteturais\src\Domains\LGroup.Arquiteturais.Domain\obj\Debug\LGroup.Arquiteturais.Domain.dll
+C:\Users\unous\Google Drive\Cursos\LGroup.DesignPattern.Arquiteturais\LGroup.DesignPattern.Arquiteturais\src\Domains\LGroup.Arquiteturais.Domain\obj\Debug\LGroup.Arquiteturais.Domain.pdb

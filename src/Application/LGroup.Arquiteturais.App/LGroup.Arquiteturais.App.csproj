@@ -49,6 +49,10 @@
       <Project>{ac78f158-ef95-4694-a1a2-57ce42aa2a5a}</Project>
       <Name>LGroup.Arquiteturais.Domain</Name>
     </ProjectReference>
+    <ProjectReference Include="..\..\Infra\LGroup.Arquiteturais.Data\LGroup.Arquiteturais.Data.csproj">
+      <Project>{1848C57F-06F6-40AC-9BED-C42968200ED5}</Project>
+      <Name>LGroup.Arquiteturais.Data</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
