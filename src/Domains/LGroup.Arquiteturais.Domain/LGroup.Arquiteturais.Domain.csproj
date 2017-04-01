@@ -40,6 +40,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Contracts\Repositories\Base\IRepositoryBase.cs" />
+    <Compile Include="Contracts\Repositories\IAlunoRepository.cs" />
+    <Compile Include="Contracts\Repositories\ICursoRepository.cs" />
+    <Compile Include="Contracts\Repositories\IMatriculaRepository.cs" />
+    <Compile Include="Contracts\Repositories\IProfessorRepository.cs" />
     <Compile Include="Contracts\UnityOfWork\IUnityOfWork.cs" />
     <Compile Include="DomainModels\Entities\Aluno.cs" />
     <Compile Include="DomainModels\Entities\Curso.cs" />

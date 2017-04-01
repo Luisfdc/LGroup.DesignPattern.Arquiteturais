@@ -7,6 +7,8 @@ using System.Collections.Generic;
 using System.Data.Entity;
 using CommonServiceLocator.SimpleInjectorAdapter;
 using serviceLocator = Microsoft.Practices.ServiceLocation;
+using LGroup.Arquiteturais.Domain.Contracts.UnityOfWork;
+using LGroup.Arquiteturais.Data.UnityOfWorlk;
 
 namespace LGroup.Arquiteturais.Ioc.ServiceLocator
 {
@@ -32,6 +34,7 @@ namespace LGroup.Arquiteturais.Ioc.ServiceLocator
             //a classe MatriculaApplicationService já instanciada
             //Nota: não é preciso dar "new"
             container.Register<IMatriculaApplicationService, MatriculaApplicationService > (lifestyle);
+            container.Register<IUnityOfWork, UnityOfWrok>(lifestyle);
 
 
             //Estamos pegando o cantainer do service locator e estamos adicionando o container do simpleInjector

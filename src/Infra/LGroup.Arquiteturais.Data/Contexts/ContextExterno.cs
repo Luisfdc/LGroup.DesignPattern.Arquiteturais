@@ -1,4 +1,5 @@
-﻿using System;
+﻿using LGroup.Arquiteturais.Domain.DomainModels.Entities;
+using System;
 using System.Collections.Generic;
 using System.Data.Entity;
 using System.Linq;
@@ -9,10 +10,14 @@ namespace LGroup.Arquiteturais.Data.Contexts
 {
     public class ContextExterno : DbContext
     {
-        public ContextExterno() 
-            : base("ConexaoInterna")
-        {
-
-        }
+        public ContextExterno()
+            : base("ConexaoExterno")
+        { }
+        public DbSet<Aluno> Aluno { get; set; }
+        public DbSet<Curso> Curso { get; set; }
+        public DbSet<Professor> Professor { get; set; }
+        public DbSet<Matricula> Matricula { get; set; }
+       }
     }
 }
+
