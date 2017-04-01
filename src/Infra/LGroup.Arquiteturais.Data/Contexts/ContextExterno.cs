@@ -1,0 +1,18 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Data.Entity;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace LGroup.Arquiteturais.Data.Contexts
+{
+    public class ContextExterno : DbContext
+    {
+        public ContextExterno() 
+            : base("ConexaoInterna")
+        {
+
+        }
+    }
+}
